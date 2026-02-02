@@ -34,4 +34,4 @@ ___
 
 ___
 
-Tambíen está el documento [reflexiones.md](./reflexiones.md), el cual es una especie de vitacora, en el cual documentaré mi autopercepción respecto al ambito general de mis conocimientos y dominio de logíca y programación, su actualzación no será del todo frecuente pero será un apartado que tenga presente por documentar.
+Tambíen está el documento [reflexiones.md](./reflexiones.md), el cual es una especie de vitacora, en donde documentaré mi autopercepción respecto al ambito general de mis conocimientos y dominio de logíca y programación, su actualzación no será del todo frecuente pero será un apartado que tenga presente por documentar.
