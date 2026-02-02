@@ -1,0 +1,3 @@
+Este ejercicio estuvo facil. Realmente es desde el principio de los fundamentos. No me quejo. En este ejercicio vi como crear comentarios en python, donde explique dos distintos modos y cuales son las buenas practicas para aplicarlos. Por otro lado, explique sobre las variables y sus distintos tipos de datos que son soportados, y por ultimo un saludo empreso en consola.
+
+Como mencione antes, fue algo facil. Anteriormente he usado python y he hecho ejercicios en este lenguaje, por lo que esto es de cierto modo facil de hacer, y mas en este lenguaje. Me senti tranquilo haciendolo y confiado, ya que es algo muy basico. Ya veremos como me trantan los demas ejercicios de este reto.
