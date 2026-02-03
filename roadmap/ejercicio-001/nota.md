@@ -1,0 +1,3 @@
+En esta actividad se realizaron varios operadores, donde se descubrio varios operadores aparte de los que cotidianamente se usan/conocen.
+
+Este ejercicio tambien estuvo facil, sin embargo aprendí consas que no sabia anteriormente. El lenguaje de python es bastante peculiar, en cuestion de como te facilitan varias cosas y es verdad el comentario de "python es como leer un lenguaje 'casi' natural". Esto me motiva bastante el haber aprendido algo nuevo, incluso sabiendo que he usado python anteriormente.
